@@ -4,7 +4,7 @@
 @author     Danny Cullen
 @version    1.0.1
 @about      Python implementation of EA's hashing algorithm for secret answers on Ultimate Team Web App
-@twitter    @dcullen88
+@twitter    @dcullen_ (was @dcullen88)
 '''
 
 import ctypes
